@@ -24,13 +24,23 @@
 
 ## Engineering team
 
+### Outsourcing
+
 ### Hiring
 
-### Onboarding
+### Training and development
 
-### One-on-ones
+#### Onboarding
 
-### All hands
+#### Great individual contributors
+
+#### Becoming a manger
+
+### Communication
+
+#### One-on-ones
+
+#### All hands
 
 ### What went wrong?
 
@@ -42,4 +52,16 @@
 
 ### Quality
 
+#### Testing
+
+##### Test-driven Devepment
+
+##### Unit and end-to-end tests and coverage
+
+## Tools and providers
+
 ### Choosing the right tools
+
+### Cost management
+
+### In-house vs existing products
